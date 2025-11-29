@@ -1,4 +1,5 @@
 Visit Website: https://stellular-puppy-a48ce7.netlify.app/
+
 # Flight Per KM Cost
 
 This project calculates the per kilometer (km) cost of a flight. It is designed to help airlines, aviation analysts, and travelers estimate flight costs based on various parameters such as distance, fuel consumption, ticket prices, and operational costs. 
